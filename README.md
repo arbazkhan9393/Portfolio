@@ -1,5 +1,5 @@
 # Portfolio
-I am a professional iOS Developer overall 4 years of experience in Mobile App Development using Swift and Obj- C. Having Deep knowledge of MVVM, VIPER, and Clean architecture. Delivers many applications to clients successfully also published on App-store.
+I am a professional iOS Developer overall 4 years of experience in Mobile App Development using Swift. Having Deep knowledge of MVVM, VIPER, and Clean architecture. Delivers many applications to clients successfully also published on App-store.
 
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
@@ -111,39 +111,3 @@ Developed multiple modules like Face-ID/Touch-ID(Authentication), Social Logins,
 <img src="Images/Circl/6.png" width="250" height="547">
 <img src="Images/Circl/7.png" width="250" height="547">
 <img src="Images/Circl/8.png" width="250" height="547">
-
-# [**Gears Unlimited**](https://apps.apple.com/us/app/gears-unlimited/id1488106848)
-
-Gears Unlimited is an Exclusive App for DJs. Buy, Rent & Trade For new and used Dj equipment
-
-### **Technologies** <br>
-* Swift <br>
-* MVC <br>
-* In-app purchase <br>
-* Push Notifications <br>
-* Third party libraries <br>
-
-<img src="Images/Gears Unlimited/1.png" width="250" height="547"><img src="Images/Gears Unlimited/2.png" width="250" height="547">
-<img src="Images/Gears Unlimited/3.png" width="250" height="547">
-<img src="Images/Gears Unlimited/4.png" width="250" height="547">
-<img src="Images/Gears Unlimited/5.png" width="250" height="547">
-<img src="Images/Gears Unlimited/6.png" width="250" height="547">
-
-# [**Menuons**](https://apps.apple.com/us/app/menuons/id1344697421)
-
-The Mobile App of Menuons Food Online Delivery System with localization (English/Arabic)
-* All Menu on your phone <br>
-* Delivery or Pick up Feature <br>
-* Payments <br>
-* Notifications on order status <br>
-
-### **Technologies** <br>
-* Swift <br>
-* MVC <br>
-* Payments <br>
-* Push Notifications <br>
-* Third party libraries <br>
-
-<img src="Images/Menuons/1.png" width="250" height="547"><img src="Images/Menuons/2.png" width="250" height="547">
-<img src="Images/Menuons/3.png" width="250" height="547">
-<img src="Images/Menuons/4.png" width="250" height="547">
